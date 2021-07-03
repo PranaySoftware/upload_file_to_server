@@ -1,0 +1,16 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+.pytest_cache/
+*.py[cod]
+*$py.class
+*.pyc
+*.patch
+*.log
+package-lock.json
+instance/
+Log/
+
+# Temp files
+*.swp
+*.swo
+*~
